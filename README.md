@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vaibhav Katwe!
+# 👋 Hi, I'm Vaibhav Katwe!
 
 🎓 Mechanical Engineering Student | 💼 Aspiring Data Analyst |
 
