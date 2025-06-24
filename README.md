@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vaibhav Katwe!
 
-<!--
-**vaibhavkatwe17/vaibhavkatwe17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering Student | 💼 Aspiring Data Analyst |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Completed B.E. in Mechanical Engineering
+- 🔍 Completed a **Data Analyst** course and actively applying knowledge to real-world projects 
+- 📈 Skilled in **Python, Excel, Power BI, SQL, and Data Visualization**
+
+---
+
+## 🛠️ Tech & Tools
+
+- **Languages:** Python, SQL, HTML/CSS (basic)
+- **Data Tools:** Excel (Advanced), Power BI, Pandas, NumPy
+- **Databases:** MySQL
+- **Version Control:** Git & GitHub
+- **Other Skills:** Problem-solving, teamwork, analytical thinking
+
+---
+
+## 📚 Skills
+
+- Advanced Excel for analytics  
+- Data storytelling and dashboard design  
+- SQL queries for business analysis  
+- Exploratory data analysis (EDA) with Python
+
+---
+
+## 📬 Connect with Me
+
+- 📧 Email: [vaibhavkatwe17@gmail.com](mailto:vaibhavkatwe17@gmail.com)  
+- 📱 Phone: 7745070870
+
+---
+
+⭐ _"Driven by data, powered by creativity, and learning every day."_  
