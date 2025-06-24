@@ -14,10 +14,9 @@
 
 ## 🛠️ Tech & Tools
 
-- **Languages:** Python, SQL, HTML/CSS (basic)
+- **Languages:** Python, SQL .
 - **Data Tools:** Excel (Advanced), Power BI, Pandas, NumPy
 - **Databases:** MySQL
-- **Version Control:** Git & GitHub
 - **Other Skills:** Problem-solving, teamwork, analytical thinking
 
 ---
