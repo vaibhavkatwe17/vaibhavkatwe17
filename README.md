@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Katwe!
 
-🎓 Mechanical Engineering Student | 💼 Aspiring Data Analyst |
+🎓 Mechanical Engineer | 💼 Aspiring Data Analyst |
 
 ---
 
